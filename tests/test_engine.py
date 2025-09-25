@@ -195,17 +195,3 @@ def test_engine_is_running(engine):
 def test_check_engine_class(engine):
     """Тест проверяет класс объекта."""
     assert isinstance(engine, Engine)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
